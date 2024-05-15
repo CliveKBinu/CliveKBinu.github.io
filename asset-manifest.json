@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CliveKBinu/CliveKBinu.github.io/static/css/main.59ed631d.css",
-    "main.js": "/CliveKBinu/CliveKBinu.github.io/static/js/main.6f0cebe4.js",
+    "main.js": "/CliveKBinu/CliveKBinu.github.io/static/js/main.613d0bfc.js",
     "static/js/415.4d6acbeb.chunk.js": "/CliveKBinu/CliveKBinu.github.io/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/CliveKBinu/CliveKBinu.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/CliveKBinu/CliveKBinu.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/CliveKBinu/CliveKBinu.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/CliveKBinu/CliveKBinu.github.io/index.html",
     "main.59ed631d.css.map": "/CliveKBinu/CliveKBinu.github.io/static/css/main.59ed631d.css.map",
-    "main.6f0cebe4.js.map": "/CliveKBinu/CliveKBinu.github.io/static/js/main.6f0cebe4.js.map",
+    "main.613d0bfc.js.map": "/CliveKBinu/CliveKBinu.github.io/static/js/main.613d0bfc.js.map",
     "415.4d6acbeb.chunk.js.map": "/CliveKBinu/CliveKBinu.github.io/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/CliveKBinu/CliveKBinu.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59ed631d.css",
-    "static/js/main.6f0cebe4.js"
+    "static/js/main.613d0bfc.js"
   ]
 }
