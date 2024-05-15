@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CliveKBinu/CliveKBinu.github.io/static/css/main.59ed631d.css",
+    "main.js": "/CliveKBinu/CliveKBinu.github.io/static/js/main.6f0cebe4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/CliveKBinu/CliveKBinu.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/CliveKBinu/CliveKBinu.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/CliveKBinu/CliveKBinu.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/CliveKBinu/CliveKBinu.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/CliveKBinu/CliveKBinu.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/home-main.svg": "/CliveKBinu/CliveKBinu.github.io/static/media/home-main.14cf65e6e17b98c9c76cf39b749eb215.svg",
+    "static/media/codeEditor.png": "/CliveKBinu/CliveKBinu.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/CliveKBinu/CliveKBinu.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "/CliveKBinu/CliveKBinu.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/CliveKBinu/CliveKBinu.github.io/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/avatar.svg": "/CliveKBinu/CliveKBinu.github.io/static/media/avatar.1bfac45034d6d96e7b32111bc062d3b7.svg",
+    "static/media/home-bg.jpg": "/CliveKBinu/CliveKBinu.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/My_CV.pdf": "/CliveKBinu/CliveKBinu.github.io/static/media/My_CV.12021cdc3de9bb98742e.pdf",
+    "static/media/logo.png": "/CliveKBinu/CliveKBinu.github.io/static/media/logo.44de547e79a646eeb40e.png",
+    "static/media/pre.svg": "/CliveKBinu/CliveKBinu.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/CliveKBinu/CliveKBinu.github.io/index.html",
+    "main.59ed631d.css.map": "/CliveKBinu/CliveKBinu.github.io/static/css/main.59ed631d.css.map",
+    "main.6f0cebe4.js.map": "/CliveKBinu/CliveKBinu.github.io/static/js/main.6f0cebe4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/CliveKBinu/CliveKBinu.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/CliveKBinu/CliveKBinu.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ed631d.css",
+    "static/js/main.6f0cebe4.js"
+  ]
+}
