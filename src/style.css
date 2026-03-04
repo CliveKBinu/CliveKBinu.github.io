@@ -473,6 +473,16 @@ button:focus {
   box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
 }
 
+.project-card-body {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+}
+
+.project-card-buttons {
+  padding-top: 15px !important;
+}
+
 .blog-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;
